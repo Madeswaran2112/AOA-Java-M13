@@ -1,6 +1,6 @@
 
 # EX 3E Generate Permutations using Backtracking  Approach.
-## DATE: 16-08-2026
+## DATE: 10-08-2026
 ## AIM:
 To write a Java program to for given constraints.
 Given an array nums of distinct integers, return all the possible Permutation. You can return the answer in any order.
@@ -33,8 +33,8 @@ For example:
 ## Program:
 ```
 /*
-Developed by: Vamsi Krishna G
-Register Number: 212223220120 
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.*;
 
