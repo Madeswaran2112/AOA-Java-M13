@@ -44,8 +44,8 @@ If there is no solution to the problem  print  "Solution does not exist"
 ```
 /*
 
-Developed by: Vamsi Krishna G
-Register Number:  212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.Scanner;
 
@@ -125,7 +125,7 @@ The program successfully implemented and the ouput is verified.
 
 
 # EX 3B Rat in Maze- Backtracking 
-## DATE:12-08-2026
+## DATE:10-08-2026
 ## AIM:
 To write a Java program to for given constraints.
 here is a ball in a maze with empty spaces (represented as 0) and walls (represented as 1). The ball can go through the empty spaces by rolling up, down, left or right, but it won't stop rolling until hitting a wall. When the ball stops, it could choose the next direction.
@@ -166,8 +166,8 @@ Explanation: One possible way is : left -> down -> left -> down -> right -> down
 ## Program:
 ```
 /*
-Developed by: Vamsi Krishna G
-Register Number:  212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.*;
 
@@ -245,7 +245,7 @@ The program successfully implemented and the expected output is verified.
 
 
 # EX 3C Tug of War problem - Backtracking.
-## DATE:13-08-2026
+## DATE:10-08-2026
 ## AIM:
 To write a Java program to for given constraints.
 Given an integer array nums, return true if you can partition the array into two subsets such that the sum of the elements in both subsets is equal or false otherwise.
@@ -283,8 +283,8 @@ Constraints:
 ## Program:
 ```
 /*
-Developed by: Vamsi Krishna G
-Register Number: 212223220120 
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.Scanner;
 
@@ -343,7 +343,7 @@ The program successfully implemented and the expected output is verified.
 
 
 # EX 3D Sudoku solver - Backtracking.
-## DATE: 14-08-2026
+## DATE: 10-08-2026
 ## AIM:
 To write a Java program to solve a Sudoku puzzle by filling the empty cells.
 
@@ -378,8 +378,8 @@ For example:
 ## Program:
 ```
 /*
-Developed by: Vamsi Krishna G
-Register Number:  212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.Scanner;
 
@@ -464,7 +464,7 @@ The program successfully implemented and the expected output is verified.
 
 
 # EX 3E Generate Permutations using Backtracking  Approach.
-## DATE: 16-08-2026
+## DATE: 10-08-2026
 ## AIM:
 To write a Java program to for given constraints.
 Given an array nums of distinct integers, return all the possible Permutation. You can return the answer in any order.
@@ -497,8 +497,8 @@ For example:
 ## Program:
 ```
 /*
-Developed by: Vamsi Krishna G
-Register Number: 212223220120 
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.*;
 
