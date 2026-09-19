@@ -1,6 +1,6 @@
 
 # EX 3D Sudoku solver - Backtracking.
-## DATE: 14-08-2026
+## DATE: 10-08-2026
 ## AIM:
 To write a Java program to solve a Sudoku puzzle by filling the empty cells.
 
@@ -35,8 +35,8 @@ For example:
 ## Program:
 ```
 /*
-Developed by: Vamsi Krishna G
-Register Number:  212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 import java.util.Scanner;
 
